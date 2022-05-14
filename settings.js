@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['918129624395','919037058796']
-global.premium = ['918129624395']
-global.ownernomer = '918129624395'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NexusNwInc.'
-global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
+global.owner = ['','19735071955']
+global.premium = ['19735071955']
+global.ownernomer = '19735071955'
+global.ownername = '🐦LUCII'
+global.botname = 'LUCII.BOT'
+global.footer = '©LuciiNewInc.'
+global.ig = 'IN ARRIVO'
+global.region = 'Italy
+global.sc = 'IN ARRIVO'
+global.myweb = 'www.tiktok.com/@l.5.c.i.i'
+global.packname = 'LUCII-BOT'
+global.author = '🐦LUCII'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
@@ -59,7 +59,7 @@ global.mess = {
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = fs.readFileSync('./GojoMedia/gojo.jpg')
+global.thumb = fs.readFileSync('.9')
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
